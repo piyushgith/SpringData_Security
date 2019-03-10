@@ -3,14 +3,14 @@ Spring Data+ Security
 
 ####
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| PostMan        | Calls        |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      | 
+| zebra stripes | are neat      | 
 
 
-| PostMan                                          |          Data                                                      |
+|                                           |          Data                                                      |
 | Get                                              | Post                                                               |
 | ------   |----- |
 | Get :  http://localhost:8080/springData/person/1 |  Post:  http://localhost:8080/springData/person                    |
